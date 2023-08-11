@@ -1,0 +1,15 @@
+@reduxjs/toolkit react-redux
+
+Prop Drilling => ContextAPI => Redux
+
+Redux : 
+
+i) Slices - Portion of info ( Data , Initial State , Functionality(Reducer) )
+ii) Store - To store slices
+iii) Reducer - Functionality
+
+iv) useDispatch Hook - To fetch data from the slice
+v) useSelector Hook - To call function
+
+
+
